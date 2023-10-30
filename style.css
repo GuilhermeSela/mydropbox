@@ -1,4 +1,36 @@
-body{
+body {
     background-color: black;
     color: white;
+    margin: 0;
+}
+
+.header-container {
+    display: flex;
+    align-items: center;
+    background-color: white; 
+    width: 100%; 
+}
+
+.logo-container {
+    background-color: RGB(0, 97, 254);
+    padding: 9px; 
+}
+
+.logo-container  {
+    width: 29px; 
+    height: 29px; 
+    fill: none; 
+}
+
+.text-logo-container {
+    margin-left: 10px; 
+}
+
+.text-logo-container {
+    width: 50px; 
+    height: 25px; 
+}
+
+.why-dropbox {
+    
 }
